@@ -3,10 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Melike+ÖZDOĞAN&center=true&size=25">
   </a>
 </h1>
-Hi there, I am Melike<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+### Hi there, I am Melike
 <p align="center">
-🙌 <br>
-I am Computer Engineering student in Duzce University
+<br>
+💻 I am Computer Engineering student in Duzce University 💻
   <h2 align="center">
 Connect with me 
 </h2>
