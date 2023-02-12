@@ -14,7 +14,7 @@ Connect with me
 </h2>
 <p align="center">
   You can visit my accounts<br>
-⭐️ <a href=https://medium.com/@melikeozdogan46/>MEdium</a> ⭐️<br>
+⭐️ <a href=https://medium.com/@melikeozdogan46/>Medium</a> ⭐️<br>
 ⭐️ <a href=https://www.linkedin.com/in/melike-%C3%B6-6499a51a3/>Linkedin</a> ⭐️<br>
 ⭐️ <a href=https://twitter.com/melikeenn>Twitter</a> ⭐️
 </p>  
